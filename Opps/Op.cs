@@ -15,7 +15,7 @@ namespace Opps
             Console.WriteLine();
             //Arithmetic OPrator
         int A = 100;
-        int B = 50;
+        int B = 10;
        
 
            Console.WriteLine("Addition of two No ="+(A + B));

@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-	  <StartupObject>Opps.Enum1</StartupObject>
+	  <StartupObject>Opps.arrayMinMax</StartupObject>
   </PropertyGroup>
 
 </Project>
