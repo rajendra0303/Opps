@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-	  <StartupObject>Opps.Op</StartupObject>
+	  <StartupObject>Opps.Electricity</StartupObject>
   </PropertyGroup>
 
 </Project>
