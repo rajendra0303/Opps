@@ -12,7 +12,7 @@ namespace Opps
         {
             Console.WriteLine("Enter a Number");
             int num = int.Parse(Console.ReadLine());
-
+            
             int temp = num, rev = 0;
 
             while(temp > 0)
