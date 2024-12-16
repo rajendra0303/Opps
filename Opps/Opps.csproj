@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-	  <StartupObject>Opps.arrayMinMax</StartupObject>
+	  <StartupObject>Opps.HierarchicalInheritance</StartupObject>
   </PropertyGroup>
 
 </Project>
